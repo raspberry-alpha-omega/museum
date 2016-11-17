@@ -1,0 +1,20 @@
+Id: ALT1
+Description: Hummingboard i1
+Manufacturer: SolidRun 
+Released: 
+Acquired: 2014-07-16
+bag: true
+photo: false
+research: true
+
+Hummingboard was one of the earlier attempts at a Raspberry Pi lookalike. They achieved this quick time to market through making a Pi shaped carrier for their existing Freescale iMX6 system module. 
+
+Compared to some boards these were quite expensive, so I only bought the cheapest (solo) version. As far as I can tell, the Pi carrier is identical for each version, only the attached SOM varies
+
+References:
+-----------
+* https://www.solid-run.com/freescale-imx6-family/hummingboard/
+* https://www.engadget.com/2014/07/03/hummingboard-solid-run/
+* http://www.androidauthority.com/hummingboard-i2ex-review-584446/
+* https://www.youtube.com/watch?v=e_q6f2g5J0g
+
