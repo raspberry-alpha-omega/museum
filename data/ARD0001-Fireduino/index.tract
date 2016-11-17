@@ -1,0 +1,22 @@
+Id: ARD0001
+Description: Fireduino
+Manufacturer: Firefly
+Released: November 2016
+Acquired: November 2016
+bag: true
+photo: false
+
+Fireduino is a hybrid board. It contains a Rockchip NanoD (ARM Cortex M3)  MCU but for all intents and purposes is an Arduino (although these usually have an Atmel MCU). As with several Kickstarter launches of this period it attempts to be a ‘better’ Arduino. In this case that means a dual core MCU, dedicated audio subsystem and built-in real-time clock, WiFi and extra memory
+
+I pledged $20 (plus shipping) for an “Early Bird Kit” which comprised the basic board, and 8GB chinese Kingston MicroSD card and a white USB cable
+
+References:
+-----------
+* https://www.kickstarter.com/projects/1771382379/fireduino-dual-core-arduino-board-more-powerful-an/description
+* http://en.t-firefly.com/en/firesmart/fireduino/
+
+
+
+
+
+
