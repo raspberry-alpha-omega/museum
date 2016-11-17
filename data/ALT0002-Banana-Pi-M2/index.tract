@@ -1,0 +1,30 @@
+Id: ALT2
+Description: Banana Pi M2
+Manufacturer: Sinovoip / Banana-Pi.org
+Released: December 2014
+Acquired: January 2015
+bag: true
+photo: false
+research: true
+
+From the web page:
+
+> Banana Pi M2 is a second generation single board computer with an upgraded SoC to provide even more power for computing tasks. It features high performance quad-core SoC, 1GB of DDR3 SDRAM, Gigabit Ethernet, 4 USB, and HDMI connection. It can run on a variety of operating systems including Android, Lubuntu, Ubuntu, Debian, and Raspbian.
+> On the quest to power, the classic pi ate two more cores to make a quad-core super pi. It also aquired new WiFI capabilities and more USB ports; but unfortunately, it left the SATA port behind so you will have to use USB ports to connect a HDD. 
+> Banana Pi is an open platform device, it is for anyone who wants to play and build with developer technology instead of simply using consumer technology. Backed by our community, starting a project and building servers is fun and rewarding. We welcome all companies, DIYers, and tech loving people within our community! Together, we can make a difference, we can discover our passions, inspire others, and build a practical project.
+> 
+> Key Features
+> * Quad-core 1.2GHz Powerful CPU.
+> * 1 GB DDR3 memeory.
+> * PowerVR SGX54MP2 .
+> * WiFi onbaord.
+
+References:
+-----------
+* http://www.banana-pi.org/m2.html
+* https://en.wikipedia.org/wiki/Banana_Pi
+* https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwj_hLXArYzQAhUKkRQKHaJ3D_AQtwIIiAEwCA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH-9DzsX9hFM&usg=AFQjCNGeOjgMZVlwZFX3HYiDkB4LfGCSLw&sig2=YWGYhbZ0T14MzhEeWyRcmg
+* http://www.cnx-software.com/2014/12/02/banana-pi-m2-is-an-allwinner-a31s-quad-core-board-with-raspberry-pi-model-b-form-factor/
+
+
+
