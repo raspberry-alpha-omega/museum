@@ -1,0 +1,17 @@
+Id: RPI0002
+Description: Compute Module
+Manufacturer:Raspberry Pi Foundation
+Released: June 2014
+Acquired: 23 June 2014
+bag: true
+photo: false
+
+The Raspberry Pi Compute Module is a SODIMM-size board containing  most of the electronics of a Raspberry Pi (presumably a model B release 2, given the date of launch.)
+
+The version in the collection was bought as a Compute Module development kit, so also includes a CMIO board, some connectors etc.
+
+References:
+-----------
+https://www.raspberrypi.org/documentation/hardware/computemodule/README.md
+https://www.raspberrypi.org/forums/viewtopic.php?f=98&t=74632
+
