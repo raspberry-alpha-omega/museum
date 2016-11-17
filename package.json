@@ -1,0 +1,27 @@
+{
+  "name": "rpi-museum",
+  "version": "0.0.1",
+  "description": "Raspberry Pi Museum",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test_all.js"
+  },
+  "devDependencies": {
+    "async": "^2.0.1",
+    "hath": "^1.0.1",
+    "stringtree-checklist": "^0.1.0"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/raspberry-alpha-omega/museum.git"
+  },
+  "author": {
+    "name": "Frank Carver",
+    "email": "frank@efsol.com",
+    "url": "http://frankcarver.me/"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
