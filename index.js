@@ -3,6 +3,7 @@ const express = require('express');
 const app = express();
 const fs = require('fs');
 const dataFolder = './data/';
+
 app.use(express.static('public'))
 
 app.get('/', function (req, res) {
