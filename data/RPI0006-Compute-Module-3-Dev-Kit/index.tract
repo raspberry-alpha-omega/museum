@@ -1,0 +1,16 @@
+Id: RPI0006
+Description: Compute Module 3 Deveopment Kit
+Manufacturer: Raspberry Pi Foundation
+Released: 2017-01-17
+Acquired: 2017-01-19
+bag: true
+photo: false
+research: false
+
+Deveopment kit includes :
+* Compute Module 3
+* Compute Module 3 Lite
+* Compute Module IO board
+* Display adapter
+* Power SUpply
+* USB and jumper cables
