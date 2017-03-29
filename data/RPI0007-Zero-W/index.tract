@@ -3,7 +3,7 @@ Description: Raspberry Pi Zero W
 Manufacturer: Raspberry Pi Foundation
 Released: 2017-02-28
 Acquired: 2017-02-28
-bag: false
+bag: true
 photo: false
 research: false
 

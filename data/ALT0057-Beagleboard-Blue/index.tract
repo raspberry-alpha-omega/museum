@@ -1,6 +1,6 @@
 Id: ALT0057
 Description: Beagleboard Blue Robotics Platform
-bag: false
+bag: true
 photo: false
 research: false
 Acquired: 2017-03-14
