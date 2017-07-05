@@ -1,0 +1,9 @@
+Id: ACC0015
+Description: ARM in ARM
+Manufacturer: NXP
+Acquired: 2015-01-08
+bag: true
+photo: false
+research: false
+
+ARM Cortex M3 on a HAT style board
