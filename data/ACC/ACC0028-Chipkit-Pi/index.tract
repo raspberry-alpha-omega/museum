@@ -1,0 +1,10 @@
+Id: ACC0028
+Description: ChipKIT Pi
+Manufacturer: ChipKIT
+Acquired: 2013-10-11
+bag: true
+photo: false
+research: false
+
+A PIC32 MCU on a Pi-compatible carrier board
+Sold exclusively via Element 14
