@@ -2,3 +2,4 @@ node_modules/
 *~
 .settings/
 nohup.out
+config.json

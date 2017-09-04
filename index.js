@@ -4,7 +4,7 @@ const app = express();
 const fs = require('fs');
 const dataFolder = './data/';
 
-app.use(express.static('public'))
+app.use(express.static('static'))
 
 app.get('/', function (req, res) {
     res.send('Hello World!');
@@ -24,7 +24,7 @@ function build(folder, app, next) {
                 if (err) return done(err)
                 if (stats.isDirectory()) folders.push(file)
                 done()
-            }) 
+            })
         }, (err) => {
             next(err)
         })

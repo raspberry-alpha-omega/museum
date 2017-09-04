@@ -6,9 +6,12 @@
   "scripts": {
     "test": "node test/test_all.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "async": "^2.0.1",
-    "hath": "^1.0.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "hath": "*",
     "stringtree-checklist": "^0.1.0"
   },
   "license": "Apache-2.0",
@@ -20,8 +23,5 @@
     "name": "Frank Carver",
     "email": "frank@efsol.com",
     "url": "http://frankcarver.me/"
-  },
-  "dependencies": {
-    "express": "^4.14.0"
   }
 }
